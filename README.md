@@ -1,10 +1,10 @@
 ## Karellism's CCS
 ## Code Challenge Solutions - Project Euler
-## Project Euler - https://www.projecteuler.com/
+## Project Euler - https://projecteuler.net
 
 Solutions to Project Euler Problems
 
-In C, C++, Java, Ruby, Python, BASH, SQL, ...
+In C, C++, Java, Python, ...
 
 By Karel "Karellism" Vanhelden - https://www.karellism.com
 
@@ -14,36 +14,18 @@ Table Of Contents
 
 ---
 
-* Language Proficiency
-  
-  * C
-  * C++
-  * Java
-  * Python
-  * Ruby
-  * Linux Shell
-  * Functional Programming
+### In C
 
-* Problem Solving
-  
-  * Algorithms
-  * Data Structures
-  * Mathematics
+* Problem 4
+* Problem 5
+*
+*
+*
 
-* Specialized Skills
-  
-  * Artificial Intelligence
-  * Databases
-  * SQL
-  * Regex
-  * 
+### In C++
 
-* Tutorials
-  
-  * 30 Days Of Code
-  * 10 Days Of JavaScript 
-  * 10 Days Of Statistics
-  * ...
+
+### In Java
 
 ---
 
